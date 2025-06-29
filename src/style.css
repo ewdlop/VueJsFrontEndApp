@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gray-50 font-sans;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-fantasy;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply px-6 py-3 bg-fantasy-600 text-white font-medium rounded-lg hover:bg-fantasy-700 transition-colors duration-200 shadow-lg hover:shadow-xl;
+  }
+  
+  .btn-secondary {
+    @apply px-6 py-3 bg-white text-fantasy-600 font-medium rounded-lg border-2 border-fantasy-600 hover:bg-fantasy-50 transition-colors duration-200;
+  }
+  
+  .card {
+    @apply bg-white rounded-xl shadow-lg hover:shadow-2xl transition-shadow duration-300 overflow-hidden;
+  }
+  
+  .hero-section {
+    @apply bg-fantasy-gradient bg-hero-pattern;
+  }
+  
+  .section-padding {
+    @apply px-4 sm:px-6 lg:px-8 py-12;
+  }
+} 
