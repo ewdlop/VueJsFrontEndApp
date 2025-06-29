@@ -10,7 +10,7 @@
               <div class="w-10 h-10 bg-fantasy-gradient rounded-lg flex items-center justify-center">
                 <span class="text-white font-fantasy font-bold text-lg">MC</span>
               </div>
-              <span class="font-fantasy text-xl font-bold text-gray-800">Mythic Canvas</span>
+              <span class="font-fantasy text-xl font-bold text-gray-800">Kudo</span>
             </router-link>
           </div>
 
@@ -136,7 +136,7 @@
         
         <div class="border-t border-gray-700 pt-8 mt-8">
           <p class="text-center text-gray-400">
-            © {{ new Date().getFullYear() }} Mythic Canvas. All rights reserved.
+            © {{ new Date().getFullYear() }} Kudo. All rights reserved.
           </p>
         </div>
       </div>

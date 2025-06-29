@@ -6,11 +6,8 @@
       <div class="relative max-w-7xl mx-auto section-padding">
         <div class="text-center">
           <h1 class="text-4xl md:text-6xl font-fantasy font-bold mb-6 leading-tight">
-            Welcome to <span class="text-yellow-300">Mythic Canvas</span>
+            Welcome to <span class="text-yellow-300">Kudo</span>
           </h1>
-          <p class="text-xl md:text-2xl mb-8 max-w-3xl mx-auto leading-relaxed">
-            Premium fantasy art marketplace and community platform, bringing together independent artists' masterpieces for collectors and gaming enthusiasts
-          </p>
           <div class="flex flex-col sm:flex-row gap-4 justify-center">
             <router-link to="/marketplace" class="btn-primary text-lg px-8 py-4">
               Explore Marketplace
@@ -28,7 +25,7 @@
       <div class="max-w-7xl mx-auto">
         <div class="text-center mb-12">
           <h2 class="text-3xl md:text-4xl font-fantasy font-bold text-gray-800 mb-4">
-            Why Choose Mythic Canvas?
+            Why Choose Kudo?
           </h2>
           <p class="text-xl text-gray-600 max-w-2xl mx-auto">
             We provide a complete fantasy art ecosystem, from creation to collection, from community to commerce

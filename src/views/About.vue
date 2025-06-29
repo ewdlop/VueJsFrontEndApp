@@ -5,7 +5,7 @@
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center">
           <h1 class="text-4xl md:text-5xl font-fantasy font-bold mb-4">
-            About Mythic Canvas
+            About Kudo
           </h1>
           <p class="text-xl opacity-90 max-w-2xl mx-auto">
             Our mission is to create a complete ecosystem for fantasy art enthusiasts
@@ -79,7 +79,7 @@
             
             <h3 class="text-xl font-semibold mb-4">Contact Information</h3>
             <p class="text-gray-600 mb-2">Phone: +1 (555) 123-4567</p>
-            <p class="text-gray-600 mb-2">Email: info@mythiccanvas.com</p>
+            <p class="text-gray-600 mb-2">Email: obert@kuboprinting.com</p>
             <p class="text-gray-600">Address: 123 Art Street, Creative District, NY 10001</p>
           </div>
           
